@@ -1,0 +1,10 @@
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\obj\Debug\netcoreapp3.1\Lab4_02.AssemblyInfoInputs.cache
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\obj\Debug\netcoreapp3.1\Lab4_02.AssemblyInfo.cs
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\bin\Debug\netcoreapp3.1\Lab4_02.exe
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\bin\Debug\netcoreapp3.1\Lab4_02.deps.json
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\bin\Debug\netcoreapp3.1\Lab4_02.runtimeconfig.json
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\bin\Debug\netcoreapp3.1\Lab4_02.runtimeconfig.dev.json
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\bin\Debug\netcoreapp3.1\Lab4_02.dll
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\bin\Debug\netcoreapp3.1\Lab4_02.pdb
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\obj\Debug\netcoreapp3.1\Lab4_02.dll
+D:\STUD\PROGRAMM\new sem\Lab4_02\Lab4_02\obj\Debug\netcoreapp3.1\Lab4_02.pdb
